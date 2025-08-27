@@ -1,0 +1,16 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.emptyRulesets": "ignore", 
+  "css.lint.invalidProperties": "ignore",
+  "postcss.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "tailwindCSS.validate": true,
+  "tailwindCSS.lint.cssConflict": "warning",
+  "tailwindCSS.lint.invalidApply": "error",
+  "tailwindCSS.lint.invalidScreen": "error",
+  "tailwindCSS.lint.invalidVariant": "error",
+  "tailwindCSS.lint.invalidConfigPath": "error",
+  "tailwindCSS.lint.invalidTailwindDirective": "error",
+  "tailwindCSS.lint.recommendedVariantOrder": "warning"
+}

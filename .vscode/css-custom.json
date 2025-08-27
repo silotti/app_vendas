@@ -1,0 +1,35 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@apply",
+      "description": "Aplicar classes utilitárias do Tailwind CSS",
+      "references": [
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#apply"
+        }
+      ]
+    },
+    {
+      "name": "@layer",
+      "description": "Define uma camada do Tailwind CSS",
+      "references": [
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#layer"
+        }
+      ]
+    },
+    {
+      "name": "@tailwind",
+      "description": "Injeta estilos do Tailwind CSS",
+      "references": [
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#tailwind"
+        }
+      ]
+    }
+  ]
+}

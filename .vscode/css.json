@@ -1,0 +1,32 @@
+{
+  "version": 1.1,
+  "properties": [],
+  "atDirectives": [
+    {
+      "name": "@tailwind",
+      "description": "Tailwind CSS directive to import base, components, and utilities"
+    },
+    {
+      "name": "@apply",
+      "description": "Apply Tailwind utility classes within custom CSS rules"
+    },
+    {
+      "name": "@layer",
+      "description": "Define custom styles within Tailwind's layering system"
+    },
+    {
+      "name": "@responsive",
+      "description": "Generate responsive variants for custom utilities"
+    },
+    {
+      "name": "@screen",
+      "description": "Create media queries using Tailwind breakpoints"
+    },
+    {
+      "name": "@variants",
+      "description": "Generate utility variants for different states"
+    }
+  ],
+  "pseudoClasses": [],
+  "pseudoElements": []
+}
